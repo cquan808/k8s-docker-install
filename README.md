@@ -8,11 +8,11 @@
 
 Clone this Repo and move into folder:
 
-`git clone`
+`git clone https://github.com/cquan808/k8s-docker-install.git`
 
 `sudo -s`
 
-`cd k8s-docker-setup`
+`cd k8s-docker-install`
 
 Run script to install docker and kubernetes:
 
