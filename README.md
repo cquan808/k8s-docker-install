@@ -18,7 +18,7 @@ Run script to install docker and kubernetes:
 
 `./install-k8s-docker.sh`
 
-## Setup Kubernete:
+## Setup Kubernetes:
 
 Initialize k8s cluster:
 
