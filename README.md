@@ -22,7 +22,7 @@ Run script to install docker and kubernetes:
 
 Initialize k8s cluster:
 
-`sudo kubeadm init --pod-network-cidr=<gce-k8s-server-ip>`
+`sudo kubeadm init --pod-network-cidr=<gce-k8s-server-ip>/16`
 
 Issue the following commands before you join a node as instructed:
 
